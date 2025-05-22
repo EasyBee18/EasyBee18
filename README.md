@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Hanofi Isiaq Alabi
+#Hi 👋, I'm Hanofi Isiaq Alabi
 
-I'm a junior avionics technician and a passionate front-end web developer. I enjoy solving real-world problems with code and continuously learning new things in tech.
+I'm a passionate front-end web developer and a junior avionics technician. I enjoy solving real-world problems with code and continuously learning new things in tech.
 
 ---
 
