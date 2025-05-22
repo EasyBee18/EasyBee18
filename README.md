@@ -38,7 +38,7 @@ I'm a junior avionics technician and a passionate front-end web developer. I enj
 
 - 📧 Email: hanofialabi18@gmail.com  
 - 📞 WhatsApp: +2348146669533  
-- 💼 LinkedIn: [Your LinkedIn URL] *(add your LinkedIn profile here)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/isiaq-hanofi  
 
 ---
 
