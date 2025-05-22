@@ -1,9 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Hanofi👋
 
 <!--
-**EasyBee18/EasyBee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer skilled in HTML, CSS, JavaScript, React, and Bootstrap.  
+I enjoy building responsive, user-focused web applications.  
+💡 Also a certified Avionics Technician with sharp problem-solving skills.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
