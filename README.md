@@ -10,7 +10,7 @@ I'm a passionate front-end web developer and a junior avionics technician. I enj
 -  📚 Higher National Diploma in Computer Science from Kwara State Polytechnic, Ilorin
 -  🛠️ Avionics Technician with 4+ years of experience on C-130H aircraft  
 - 🎓 Certified in Aircraft Maintenance (Avionics), Safety Management System, and Airworthiness  
- - 🌍 Languages: English, Yoruba  
+    
 
 ---
 
@@ -29,7 +29,7 @@ I'm a passionate front-end web developer and a junior avionics technician. I enj
 ## 🔧 Projects
 
 - [My Portfolio Website](https://github.com/yourusername/portfolio)  
-- [React Weather App](https://github.com/yourusername/weather-app)  
+  
 <!-- Replace these links with actual repositories when ready -->
 
 ---
@@ -44,8 +44,7 @@ I'm a passionate front-end web developer and a junior avionics technician. I enj
 
 ## ⚡ Fun Facts
 
-- 🛫 I work with aircraft by day, and code by night  
-- 🧩 I enjoy solving technical problems and improving my craft daily  
+- 🛫 I work with aircraft by day, and code by night 
 
 ---
 
