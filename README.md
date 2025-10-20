@@ -6,7 +6,7 @@ I'm a passionate front-end web developer and a junior avionics technician. I enj
 
 ## 🧰 About Me
 
-- 💻 Junior Front-end Developer skilled in building responsive, user-friendly websites 
+- 💻 Front-end Developer skilled in building responsive, user-friendly websites 
 -  📚 Higher National Diploma in Computer Science from Kwara State Polytechnic, Ilorin
 -  🛠️ Avionics Technician with 4+ years of experience on C-130H aircraft  
 - 🎓 Certified in Aircraft Maintenance (Avionics), Safety Management System, and Airworthiness  
